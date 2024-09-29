@@ -1,1 +1,1 @@
-# Training
+# Training with Hexlet!
