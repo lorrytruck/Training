@@ -1,1 +1,1 @@
-# Training with Hexlet!
+Hello, Hexlet! How are you?
